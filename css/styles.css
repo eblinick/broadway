@@ -15,10 +15,11 @@ h2 {
 	font-size: 23px;
 }
 
+nav	{
+	padding-bottom: 10px;
+}
 .back {
-	background-image: url('/img/the-flatiron-building.png');
-	background-color: lightblue;
-
+	background-image: url("../img/the-flatiron-building.png");
 }
 
 a {
